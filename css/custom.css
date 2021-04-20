@@ -1,0 +1,18 @@
+.search button{
+    background: #f1f2f6;
+    border: none;
+    padding: 3px;
+}
+button i{
+    padding: 5px;
+}
+.search input{
+    border: none;
+}
+.search input:focus{
+    background: #f1f2f6;
+
+    outline: none;
+    transition: ease-in 2s;
+    border-bottom:  .5 solid #ced6e0;
+}

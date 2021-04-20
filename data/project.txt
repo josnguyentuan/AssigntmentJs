@@ -1,0 +1,21 @@
+Xây dựng một website bán hàng.
+YÊU CẦU ASSIGNMENT:
+customers
+order
+Nếu chưa tồn tại customer, thì sẽ hiển thị modal yêu cầu người dùng nhập thông tin khách
+hàng trước, sau đó tạo ra customer mới trên resource customers. Mỗi lượt sử dụng sẽ lấy records
+status
+created_date
+phone
+address
+customer_name
+id
+image
+detail
+price
+cate_id
+product_name
+id
+categorie_name
+id
+sẽ đóng khi người dùng click vào nút thanh toán (chuyển trạng thái thành completed)
