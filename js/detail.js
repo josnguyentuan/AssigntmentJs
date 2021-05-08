@@ -38,7 +38,7 @@ window.addEventListener("DOMContentLoaded", async ()=>{
                 "Content-Type": 'application/json'
             }
         })
-        window.location.replace("/cart.html");
+        window.location.replace("cart.html");
 
     })
 

@@ -20,7 +20,8 @@ const renderProducts = async (term) => {
                                 <td>${product.description.slice(0,10)}...</td>
                                 <td>${product.category.name}</td>
                                 <td>
-                                    <button  class="btnDel btn btn-danger"><i class="fa fa-trash-o" aria-hidden="true"></i>
+                                    <button  class="btnDel btn btn-danger">
+                                    <i class="fa fa-trash-o" ></i>
                                     </button> 
                                     <a href="./edit-product.html?id=${product.id}"  class="btnEdit btn btn-primary"> 
                                     <i class="fa fa-edit"></i>
@@ -28,19 +29,18 @@ const renderProducts = async (term) => {
 
                                 </td>
                             </tr>
-             `
+             `;
 
         container.innerHTML = template;
         var del = document.querySelector(`[data-id='${product.id}'] .btnDel`);
-        del.addEventListener("click", () => {
-            console.log("a");
-            let del = confirm("Do you want to delete?");
-            if (del) {
+        del.addEventListener('click', () => {
+            let dele = confirm("Do you want to delete?");
+            if (dele) {
                 fetch(`http://localhost:3000/products/${product.id}`, {
                         method: 'DELETE',
                     })
                     .then(res => res.json())
-                    .then(() => location.reload)
+                    .then(() => location.reload())
 
             }
         })

@@ -9,44 +9,20 @@
       "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/08/20/dc937fd027f947909c7441e8b2c46e67.JPG"
     },
     {
+      "id": 3,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": 1,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/08/20/dc937fd027f947909c7441e8b2c46e67.JPG"
+    },
+    {
       "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99,
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "categoryId": 3,
-      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/04/27/1bd17d391f3e8356a543feac89fe6c40.jpg"
-    },
-    {
-      "id": 16,
-      "title": "Lock and Love Men's Removable Hooded ",
-      "price": 29.95,
-      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-      "categoryId": 4,
-      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/04/27/2039f2754e9a462c9ed5758b3f0dc50d.jpg"
-    },
-    {
-      "id": 18,
-      "title": "MBJ Men's Solid Short Sleeve Boat Neck V ",
-      "price": 9.85,
-      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-      "categoryId": 3,
-      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/03/31/5f883b6615cb9b9ec092304e0c361201.jpg"
-    },
-    {
-      "id": 20,
-      "title": "DANVOUY Mens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
       "categoryId": 1,
-      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/03/31/253a8bd9facfd4772ee37a22ea3788c6.jpg"
-    },
-    {
-      "id": 21,
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-      "categoryId": 1,
-      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2021/04/06/80ef1e98e90451f4904d71c1499db895.jpg"
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1600/2020/08/20/dc937fd027f947909c7441e8b2c46e67.JPG"
     }
   ],
   "categories": [
@@ -61,10 +37,6 @@
     {
       "id": 3,
       "name": "Men clothing"
-    },
-    {
-      "id": 4,
-      "name": "Women clothing"
     }
   ],
   "customers": [
@@ -87,27 +59,5 @@
       "id": 2
     }
   ],
-  "orders": [
-    {
-      "productId": 20,
-      "name": "DANVOUY Mens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "amount": 4,
-      "id": 1
-    },
-    {
-      "productId": 18,
-      "name": "MBJ Men's Solid Short Sleeve Boat Neck V ",
-      "price": 9.85,
-      "amount": 1,
-      "id": 2
-    },
-    {
-      "productId": 16,
-      "name": "Lock and Love Men's Removable Hooded ",
-      "price": 29.95,
-      "amount": 7,
-      "id": 3
-    }
-  ]
+  "orders": []
 }
